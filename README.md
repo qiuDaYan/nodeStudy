@@ -1,2 +1,3 @@
 # nodeStudy
-node
+
+**HOW TO USE**
